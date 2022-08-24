@@ -13,7 +13,13 @@
   },
   "author": "imrankhan@easyeat.ai",
   "license": "ISC",
-  "keywords": [],
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
   "dependencies": {
     "axios": "^0.20.0"
   }
